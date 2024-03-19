@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.c1acb3c4.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/mesobmagic.png": "/Portfolio/static/media/mesobmagic.2f7d5bd07b3f7ed0fe91.png",
-    "static/media/wanderwise.png": "/Portfolio/static/media/wanderwise.b756e5b91ab656ee6a8e.png",
-    "static/media/CustomEd.png": "/Portfolio/static/media/CustomEd.ee5687ab424db8fab0e1.png",
-    "static/media/Hakimhub.png": "/Portfolio/static/media/Hakimhub.4b4b37d251864b4e5559.png",
-    "static/media/campus_bulletin_app.png": "/Portfolio/static/media/campus_bulletin_app.9f5b991312df84a607d7.png",
-    "static/media/Dibora_Berhanu_resume.pdf": "/Portfolio/static/media/Dibora_Berhanu_resume.094ce04b39ba3e090ec6.pdf",
-    "static/media/about.svg": "/Portfolio/static/media/about.7ec14da89da06bb1c4971bbfd89d544e.svg",
-    "static/media/home-main.svg": "/Portfolio/static/media/home-main.9f950ac487d6c496e82c42361a6e4ac7.svg",
-    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7eb15cdc2053589253ca6fb280c3807b.svg",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.c1acb3c4.js.map": "/Portfolio/static/js/main.c1acb3c4.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/public/static/css/main.2d2506d3.css",
+    "main.js": "/Portfolio/public/static/js/main.c7aaadaa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/public/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/public/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mesobmagic.png": "/Portfolio/public/static/media/mesobmagic.2f7d5bd07b3f7ed0fe91.png",
+    "static/media/wanderwise.png": "/Portfolio/public/static/media/wanderwise.b756e5b91ab656ee6a8e.png",
+    "static/media/CustomEd.png": "/Portfolio/public/static/media/CustomEd.ee5687ab424db8fab0e1.png",
+    "static/media/Hakimhub.png": "/Portfolio/public/static/media/Hakimhub.4b4b37d251864b4e5559.png",
+    "static/media/campus_bulletin_app.png": "/Portfolio/public/static/media/campus_bulletin_app.9f5b991312df84a607d7.png",
+    "static/media/Dibora_Berhanu_resume.pdf": "/Portfolio/public/static/media/Dibora_Berhanu_resume.094ce04b39ba3e090ec6.pdf",
+    "static/media/about.svg": "/Portfolio/public/static/media/about.7ec14da89da06bb1c4971bbfd89d544e.svg",
+    "static/media/home-main.svg": "/Portfolio/public/static/media/home-main.9f950ac487d6c496e82c42361a6e4ac7.svg",
+    "static/media/home-bg.jpg": "/Portfolio/public/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/public/static/media/avatar.7eb15cdc2053589253ca6fb280c3807b.svg",
+    "static/media/pre.svg": "/Portfolio/public/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/public/index.html",
+    "main.2d2506d3.css.map": "/Portfolio/public/static/css/main.2d2506d3.css.map",
+    "main.c7aaadaa.js.map": "/Portfolio/public/static/js/main.c7aaadaa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/public/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/public/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e558664.css",
-    "static/js/main.c1acb3c4.js"
+    "static/css/main.2d2506d3.css",
+    "static/js/main.c7aaadaa.js"
   ]
 }
