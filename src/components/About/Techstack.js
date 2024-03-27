@@ -7,8 +7,10 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  
 } from "react-icons/di";
 import {
+  SiDotnet,
   SiPostgresql,
   SiFlutter,
 } from "react-icons/si";
@@ -40,6 +42,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFlutter />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDotnet />
       </Col>
       
     </Row>
