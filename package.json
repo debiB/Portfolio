@@ -2,7 +2,7 @@
   
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://debiB.github.io/",
+  "homepage": "https://debiB.github.io",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
